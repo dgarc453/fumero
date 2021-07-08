@@ -13,7 +13,6 @@ function App() {
           <Nav.Link href="#pricing">Gallery</Nav.Link>
           <Nav.Link href="#pricing">History</Nav.Link>
           <Nav.Link href="#pricing">Contact</Nav.Link>
-
         </Nav>
       </Navbar>
     </div>
